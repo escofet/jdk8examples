@@ -1,4 +1,4 @@
-package com.sopra.api;
+package com.conferor.io;
 
 import java.io.File;
 import java.io.IOException;

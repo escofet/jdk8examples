@@ -1,4 +1,4 @@
-package com.sopra.helper;
+package com.conferor.helper;
 
 import java.util.Random;
 

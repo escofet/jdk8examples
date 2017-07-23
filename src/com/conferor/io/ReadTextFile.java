@@ -1,4 +1,4 @@
-package com.sopra.api;
+package com.conferor.io;
 /*
 Read Text File in Java 8
 */
@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 public class ReadTextFile {
 	public static void main(String[] args) throws IOException {
-		String filename = "src/com/sopra/api/ReadTextFile.java";
+		String filename = "resources/passwords.txt";
 		System.out.println(readFileInString(filename));
 		System.out.println("*****************************************************************");
 		System.out.println(readFileByLine(filename));
